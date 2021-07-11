@@ -1,0 +1,6 @@
+framework module Pods_App_Guideline_App_GuidelineUITests {
+  umbrella header "Pods-App_Guideline-App_GuidelineUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

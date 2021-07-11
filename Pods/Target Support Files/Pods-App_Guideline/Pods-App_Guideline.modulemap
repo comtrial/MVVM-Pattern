@@ -1,0 +1,6 @@
+framework module Pods_App_Guideline {
+  umbrella header "Pods-App_Guideline-umbrella.h"
+
+  export *
+  module * { export * }
+}
